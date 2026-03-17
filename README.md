@@ -1,10 +1,34 @@
 ## Hi there 👋
+
 I'm Kayra,
-I'm a self-taught [Python](https://www.python.org/) learner. I code as a hobby, and I'm a middle school student.
 
- - 👷‍♂️ I’m currently working on [Basic Day Scoring](https://github.com/kayracizmeci/Basic-Day-Scoring) It's a program that lets you score your days.
-  
- - 📖 I’m currently learning [Python](https://www.python.org/) and also after learning 
-enough [Python](https://www.python.org/), I'm going to start learning Web Development.
-  
+I'm a self-taught [Python](https://www.python.org/) learner. I code as a hobby, and I'm a middle school student. I've also started learning Swift. For making good-looking apps. 
 
+- 👷‍♂️ I’m currently working on [Basic Day Scoring](https://github.com/kayracizmeci/Basic-Day-Scoring) It's a program that lets you score your days.
+
+- 📖 I'm currently learning both $$\color{red}{\text{Swift}}$$ and $$\color{blue}{\text{Python}}$$.
+
+## $$\color{red}{\text{Note}}$$
+
+Currently, all of my repositories are written in Python. I have recently started learning Swift. So if you can't find any Swift repositories that's why.
+
+
+
+
+
+## 🛠 Techs & Skills
+
+[![My Skills](https://skillicons.dev/icons?i=py,swift,git,github,vscode)](https://skillicons.dev)
+
+
+
+
+## 📊 Stats 🔻👇
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kayracizmeci&show_icons=true&theme=radical&rank_icon=github" width="60%" alt="Kayra's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayracizmeci&theme=radical" width="60%" alt="Kayra's GitHub Streak" />
+</p>
