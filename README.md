@@ -18,8 +18,11 @@ Currently, all of my repositories are written in Python. I have recently started
 
 ## 🛠 Techs & Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,swift,git,github,vscode)](https://skillicons.dev)
-
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
+[![Swift](https://skillicons.dev/icons?i=swift)](https://developer.apple.com/swift/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/kayracizmeci)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 
 
 
