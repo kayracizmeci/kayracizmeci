@@ -23,6 +23,7 @@ Currently, all of my repositories are written in Python. I have recently started
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/kayracizmeci)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 
 
 
