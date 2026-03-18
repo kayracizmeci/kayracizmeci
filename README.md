@@ -4,7 +4,7 @@ I'm Kayra,
 
 I'm a self-taught [Python](https://www.python.org/) learner. I code as a hobby, and I'm a middle school student. I've also started learning [Swift](https://www.swift.org/). For making good-looking apps. 
 
-- 👷‍♂️ I’m currently working on [Basic Day Scoring](https://github.com/kayracizmeci/Basic-Day-Scoring) It's a program that lets you score your days.
+- 👷‍♂️ I’m currently working on [Basic Calculator](https://github.com/kayracizmeci/Basic-Calculator).
 
 - 📖 I'm currently learning both $$\color{red}{\text{Swift}}$$ and $$\color{blue}{\text{Python}}$$.
 
