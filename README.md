@@ -30,9 +30,5 @@ Currently, all of my repositories are written in Python. I have recently started
 ## 📊 Stats 🔻👇
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kayracizmeci&show_icons=true&theme=radical&rank_icon=github" width="60%" alt="Kayra's GitHub Stats" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayracizmeci&theme=radical" width="60%" alt="Kayra's GitHub Streak" />
 </p>
