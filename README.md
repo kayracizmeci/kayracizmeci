@@ -8,9 +8,6 @@ I'm a self-taught [Python](https://www.python.org/) learner. I code as a hobby, 
 
 - 📖 I'm currently learning both $$\color{red}{\text{Swift}}$$ and $$\color{blue}{\text{Python}}$$.
 
-## $$\color{red}{\text{Note}}$$
-
-Currently, all of my repositories are written in Python. I have recently started learning Swift. So if you can't find any Swift repositories that's why.
 
 
 
