@@ -6,7 +6,7 @@ I'm a self-taught [Python](https://www.python.org/) learner. I code as a hobby, 
 
 - 👷‍♂️ I’m currently working on [Basic Calculator](https://github.com/kayracizmeci/Basic-Calculator).
 
-- 📖 I'm currently learning both $$\color{red}{\text{Swift}}$$ and $$\color{blue}{\text{Python}}$$.
+- 📖 I'm currently learning $$\color{red}{\text{Swift}}$$.
 
 
 
@@ -21,6 +21,7 @@ I'm a self-taught [Python](https://www.python.org/) learner. I code as a hobby, 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/kayracizmeci)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
 
 
