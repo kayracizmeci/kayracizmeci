@@ -4,7 +4,7 @@ I'm Kayra,
 
 I'm a self-taught [Python](https://www.python.org/) learner. I code as a hobby, and I'm a middle school student. I've also started learning [Swift](https://www.swift.org/). For making good-looking apps. 
 
-- 👷‍♂️ I’m currently working on [Basic Calculator](https://github.com/kayracizmeci/Basic-Calculator).
+- 👷‍♂️ I’m currently working on my private projects.
 
 - 📖 I'm currently learning $$\color{red}{\text{Swift}}$$.
 
@@ -25,8 +25,3 @@ I'm a self-taught [Python](https://www.python.org/) learner. I code as a hobby, 
 
 
 
-## 📊 Stats 🔻👇
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayracizmeci&theme=radical" width="60%" alt="Kayra's GitHub Streak" />
-</p>
