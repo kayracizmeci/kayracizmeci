@@ -6,7 +6,7 @@ I'm a self-taught [Python](https://www.python.org/) learner. I code as a hobby, 
 
 - 👷‍♂️ I’m currently working on my private projects.
 
-- 📖 I'm currently learning $$\color{red}{\text{Swift}}$$.
+- 📖 I'm currently learning C.
 
 
 
@@ -22,6 +22,7 @@ I'm a self-taught [Python](https://www.python.org/) learner. I code as a hobby, 
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 
 
