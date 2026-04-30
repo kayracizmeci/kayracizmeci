@@ -4,7 +4,7 @@ I'm Kayra,
 
 I'm a self-taught [Python](https://www.python.org/) learner. I code as a hobby, and I'm a middle school student. I've also started learning [Swift](https://www.swift.org/). For making good-looking apps. 
 
-- 👷‍♂️ I’m currently working on my private projects.
+- 👷‍♂️ I’m currently working on [Quasar](https://github.com/kayracizmeci/Quasar).
 
 - 📖 I'm currently learning C.
 
