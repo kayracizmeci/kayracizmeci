@@ -1,12 +1,17 @@
 ## Hi there 👋
 
+## Hi there 👋
 I'm Kayra,
-
-I'm a self-taught [Python](https://www.python.org/) learner. I code as a hobby, and I'm a middle school student. I've also started learning [Swift](https://www.swift.org/). For making good-looking apps. 
-
-- 👷‍♂️ I’m currently working on [Quasar](https://github.com/kayracizmeci/Quasar).
-
-- 📖 I'm currently learning C.
+I'm a self-taught developer and middle school student
+who codes as a hobby. Currently building an OS for 
+getting better at C, and learning some Assembly. 
+I'm also a 13 year old student from Turkey, 
+living in Istanbul. I started coding 6 months ago 
+with this [Kebab-Or-Pizza](https://github.com/kayracizmeci/Kebab-Or-Pizza-Version-1) 
+thing. (That is a completely trash project, with 
+everything wrong about it.) And right now I'm doing 
+my own OS that will hopefully not have the same 
+destiny. [Quasar](https://github.com/kayracizmeci/Quasar)
 
 
 
