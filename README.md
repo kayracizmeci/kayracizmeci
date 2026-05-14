@@ -11,7 +11,7 @@ with this [Kebab-Or-Pizza](https://github.com/kayracizmeci/Kebab-Or-Pizza-Versio
 thing. (That is a completely trash project, with 
 everything wrong about it.) And right now I'm doing 
 my own OS that will hopefully not have the same 
-destiny. [Quasar](https://github.com/kayracizmeci/Quasar)
+destiny.
 
 
 
